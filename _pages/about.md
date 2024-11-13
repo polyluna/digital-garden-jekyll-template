@@ -4,6 +4,5 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+I'm Luna. You may also know me as _polyluna_, currently an avid zk learner.
+Previously I worked in management consulting and UX/UI design. 
