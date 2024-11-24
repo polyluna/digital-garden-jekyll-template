@@ -1,5 +1,5 @@
 ---
-title: Consistency is key
+title: Invisible Garden 2024
 ---
 
 ### Reflections on Invisible Garden#0
