@@ -41,3 +41,5 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+og_image: "/assets/polyluna_avatar.PNG"
