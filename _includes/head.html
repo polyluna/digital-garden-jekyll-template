@@ -43,14 +43,17 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   {% if page.image %}
-  <meta
-    property="og:image"
-    content="{{ site.url }}{{ page.image | default: site.og_image | absolute_url }}"
-  />
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
   {% endif %}
 
   <title>
     {% if page.id == "home" %} {{ site.title }} {% else %} {{ page.title }}
     &mdash; {{ site.title }} {% endif %}
   </title>
+
+  <link
+    rel="icon"
+    href="{{ site.baseurl }}/assets/polyluna_avatar.PNG"
+    type="png"
+  />
 </head>
